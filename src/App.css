@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.user {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding-bottom: 1rem;
+}
+
+.user-avatar {
+  border-radius: 50%;
+  width: 5rem;
+}
